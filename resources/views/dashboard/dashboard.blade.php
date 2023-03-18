@@ -30,7 +30,7 @@
                                             <td>{{ $usr->name }}</td>
                                             <td>{{ $usr->email }}</td>
                                             <td>
-                                                <a type="button" class="btn btn-outline-primary btn-rounded "
+                                                <a type="button" class="btn btn-outline-info btn-rounded "
                                                     data-bs-toggle="modal" data-bs-target="#key{{ $usr->id }}">
                                                     Update</a>
 
